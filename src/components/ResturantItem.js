@@ -42,7 +42,7 @@ const ResturantItem = () => {
 const RestuarantImage = () => {
   return (
     <View>
-      <Image souce/>
+    
     </View>
   );
 };
